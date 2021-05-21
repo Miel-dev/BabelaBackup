@@ -9,13 +9,15 @@ background-color: rgb(48, 41, 41);
 #main, header, footer{
     width:95%;  margin: 15px auto;      
 }
-header, footer, .body, .Sidebar, article, section{
+header, footer, .body, .Sidebar, article{
     height: auto;
     background-color: rgb(0, 81, 255);
     width: 100%;
     padding: 10px;
     text-align: center;
 }
+
+
 .sidebarfeat{
     height: auto;
 }
@@ -72,11 +74,12 @@ footer{
     grid-template-columns: auto 76.8%;
     margin:auto;
     text-align: center;
+  
 }
 
 .grid-container3a>.bodysec{
     height: 300px;
-    background-color: darksalmon;
+    background-color: rgba(87, 44, 30, 0.664);
 }
 .body, .Sidebar{
     height: auto;
@@ -85,8 +88,11 @@ footer{
     height: auto;
     width: 95%;
     margin: auto;
-    background-color: darksalmon;
+    background-color: rgba(87, 44, 30, 0.664);
     padding: 15px;
+    border-style: double;
+    border-color: black;
+    border-width: 7.5pt;
 }
 .Reeves{
     height: 90%;

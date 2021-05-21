@@ -76,7 +76,7 @@ footer{
 
 .grid-container3a>.bodysec{
     height: 300px;
-    background-color: darksalmon;
+    background-color: rgba(87, 44, 30, 0.664);
     height: 100%;
 }
 .body, .Sidebar{
@@ -90,7 +90,7 @@ input, select, textarea{
     height: auto;
     width: 95%;
     margin: auto;
-    background-color: darksalmon;
+    background-color: rgba(87, 44, 30, 0.664);
     padding: 15px;
 }
 
